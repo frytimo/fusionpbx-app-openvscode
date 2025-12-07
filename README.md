@@ -199,7 +199,7 @@ I would recommend adding the xdebug extension as it will allow you to debug the 
 Recommend the following:
 - PHP DocBlocker by neilbrayfield
 - PHP Formatter - pretty-php by lkrms
-	- Goto Extension Settings: "Pretty-PHP: Formatter Arguments" and Add Item `--one-true-brace-style`
+	- Goto Extension Settings: "Pretty-PHP: Formatter Arguments" and Add Items: `--one-true-brace-style`, `--tab`, `--no-simplify-strings`
 - PHP Debug by xdebug
 - PHP Intelephense by bmewburn (https://intelephense.com/ $35 one-time fee for premium features)
 - PHP String Syntax by ericgomez
