@@ -10,7 +10,7 @@ This document is mostly my notes on how I added Open VSCode to FusionPBX. This i
 
 **Install programs needed**
 ```
-apt install -y nodejs npm
+sudo curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash - && sudo apt install nodejs -y
 ```
 
 **Set the PHP version to use**
